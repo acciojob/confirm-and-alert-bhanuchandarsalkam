@@ -6,3 +6,4 @@ if(user){
 else{
 	alert("You clicked Cancel. Exiting...")
 }
+
